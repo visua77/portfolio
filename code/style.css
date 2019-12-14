@@ -44,6 +44,22 @@ body {
     font-size: 1.3rem;
 }
 
+.section5 {
+    position: relative;
+    top: 80px;
+    width: 100%;
+    background-color: rgb(235, 235, 235);
+    font-size: 1.3rem;
+}
+
+.section6 {
+    position: relative;
+    top: 80px;
+    width: 100%;
+    background-color: rgb(235, 235, 235);
+    font-size: 1.3rem;
+}
+
 .projContainer {
     display: flex;
     padding: 15px;
@@ -88,6 +104,19 @@ body {
     line-height: 30px;
     text-align: left;
     font-size: 1.3rem;
+}
+
+.featuredSe5 {
+    position: relative;
+    top: 80px;
+    display: block;
+    margin: auto;
+    padding: 5px;
+    font-size: 1.7rem;
+    font-weight: 900;
+    background-color: red;
+    color: white;
+    width: 450px;
 }
 
 .intro {
@@ -158,4 +187,15 @@ body {
 
 .red {
     color: red;
+}
+
+.strong {
+    font-size: 1.4rem;
+    font-weight: 900;
+}
+
+a {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 700;
 }
