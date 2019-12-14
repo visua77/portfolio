@@ -12,7 +12,6 @@
                                     height: 360px;
                                     background-color: rgba(0, 0, 0, .2);
                                     font-size: 2rem;
-                                    ;
                                 }
                                 
                                 .section {
@@ -67,6 +66,12 @@
                                     justify-content: center
                                 }
                                 
+                                .projContainerS {
+                                    display: flex;
+                                    padding: 15px;
+                                    justify-content: center
+                                }
+                                
                                 .projects {
                                     position: relative;
                                     top: 80px;
@@ -85,6 +90,23 @@
                                     padding: 25px;
                                     font-size: 1rem;
                                     line-height: 15px;
+                                }
+                                
+                                .fafaCol {
+                                    position: relative;
+                                    margin: 20px;
+                                    width: 40px;
+                                    padding: 25px;
+                                    font-size: 1rem;
+                                    line-height: 15px;
+                                }
+                                
+                                .fafaCol2 {
+                                    position: relative;
+                                    width: 100px;
+                                    height: 100px;
+                                    top: 100px;
+                                    margin: 20px;
                                 }
                                 
                                 .introText {
@@ -126,7 +148,7 @@
                                     padding: 5px;
                                     font-size: 1.7rem;
                                     font-weight: 900;
-                                    background-color: red;
+                                    background-color: rgb(233, 0, 0);
                                     color: white;
                                     width: 450px;
                                 }
@@ -146,6 +168,24 @@
                                     border: 2px solid white;
                                     left: 800px;
                                     top: -10px;
+                                }
+                                
+                                .mugShot2 {
+                                    width: 200px;
+                                    height: 200px;
+                                    position: relative;
+                                    background-color: rgba(0, 0, 0, .2);
+                                    border-radius: 50%;
+                                    border: 2px solid white;
+                                    left: 800px;
+                                    top: -10px;
+                                }
+                                
+                                .social {
+                                    position: absolute;
+                                    left: 800px;
+                                    top: 20px;
+                                    width: 150px;
                                 }
                                 
                                 .folio {
@@ -168,7 +208,7 @@
                                     padding: 5px;
                                     font-size: 1.5rem;
                                     font-weight: 900;
-                                    background-color: red;
+                                    background-color: rgb(233, 0, 0);
                                     color: white;
                                     width: 70px;
                                 }
@@ -181,7 +221,7 @@
                                     padding: 5px;
                                     font-size: 1.7rem;
                                     font-weight: 900;
-                                    background-color: red;
+                                    background-color: rgb(233, 0, 0);
                                     color: white;
                                     width: 320px;
                                 }
@@ -193,7 +233,7 @@
                                     padding: 5px;
                                     font-size: 1.7rem;
                                     font-weight: 900;
-                                    color: red;
+                                    color: rgb(233, 0, 0);
                                     width: 320px;
                                 }
                                 
@@ -236,7 +276,7 @@
                                     padding: 5px;
                                     font-size: 1.7rem;
                                     font-weight: 900;
-                                    background-color: red;
+                                    background-color: rgb(233, 0, 0);
                                     color: white;
                                     width: 120px;
                                 }
@@ -249,13 +289,13 @@
                                     padding: 5px;
                                     font-size: 1.7rem;
                                     font-weight: 900;
-                                    background-color: red;
+                                    background-color: rgb(233, 0, 0);
                                     color: white;
-                                    width: 200px;
+                                    width: 170px;
                                 }
                                 
                                 .red {
-                                    color: red;
+                                    color: rgb(218, 0, 0);
                                 }
                                 
                                 .white {
@@ -280,5 +320,13 @@
                                 }
                                 
                                 .fafa {
-                                    font-size: 6rem;
+                                    font-size: 4rem;
+                                    border-radius: 50%;
+                                    border: 2 px solid red;
+                                    color: rgb(218, 0, 0);
+                                }
+                                
+                                .fafa2 {
+                                    font-size: 3rem;
+                                    color: white;
                                 }
