@@ -1,201 +1,281 @@
-* {
-    box-sizing: border-box;
-}
-
-body {
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Montserrat', sans-serif;
-}
-
-.topContainer {
-    width: 100%;
-    height: 360px;
-    background-color: rgba(0, 0, 0, .2);
-    font-size: 2rem;
-    ;
-}
-
-.section {
-    width: 100%;
-    height: 300px;
-    background-color: rgba(0, 0, 0, .5);
-    font-size: 2rem;
-}
-
-.section2 {
-    width: 100%;
-    height: 300px;
-    background-color: white;
-    font-size: 2rem;
-}
-
-.section3 {
-    height: 1000px;
-    width: 100%;
-    background-color: rgb(235, 235, 235);
-    font-size: 2rem;
-}
-
-.section4 {
-    position: relative;
-    top: 80px;
-    width: 100%;
-    background-color: rgb(235, 235, 235);
-    font-size: 1.3rem;
-}
-
-.section5 {
-    position: relative;
-    top: 80px;
-    width: 100%;
-    background-color: rgb(235, 235, 235);
-    font-size: 1.3rem;
-}
-
-.section6 {
-    position: relative;
-    top: 80px;
-    width: 100%;
-    background-color: rgb(235, 235, 235);
-    font-size: 1.3rem;
-}
-
-.projContainer {
-    display: flex;
-    padding: 15px;
-    justify-content: center
-}
-
-.projects {
-    position: relative;
-    top: 80px;
-    margin: 20px;
-    width: 380px;
-    padding: 25px;
-    font-size: 1.3rem;
-    background-color: lightpink;
-}
-
-.introText {
-    width: 800px;
-    margin: auto;
-    position: relative;
-    top: 80px;
-    line-height: 30px;
-    text-align: left;
-    font-size: 1.3rem;
-}
-
-.techText {
-    width: 800px;
-    margin: auto;
-    position: relative;
-    top: 80px;
-    line-height: 30px;
-    text-align: left;
-    font-size: 1.3rem;
-}
-
-.projectsPlus {
-    width: 800px;
-    margin: auto;
-    position: relative;
-    top: 80px;
-    line-height: 30px;
-    text-align: left;
-    font-size: 1.3rem;
-}
-
-.featuredSe5 {
-    position: relative;
-    top: 80px;
-    display: block;
-    margin: auto;
-    padding: 5px;
-    font-size: 1.7rem;
-    font-weight: 900;
-    background-color: red;
-    color: white;
-    width: 450px;
-}
-
-.intro {
-    position: relative;
-    left: 200px;
-    top: 80px;
-}
-
-.mugShot {
-    width: 200px;
-    height: 200px;
-    position: relative;
-    background-color: rgba(0, 0, 0, .2);
-    border-radius: 50%;
-    border: 2px solid white;
-    left: 800px;
-    top: -10px;
-}
-
-.folio {
-    font-size: 1rem;
-}
-
-.front {
-    font-size: 3rem;
-}
-
-.extraSkill {
-    font-size: 1.5rem;
-}
-
-.tech {
-    position: relative;
-    top: 50px;
-    display: block;
-    margin: auto;
-    padding: 5px;
-    font-size: 1.5rem;
-    font-weight: 900;
-    background-color: red;
-    color: white;
-    width: 70px;
-}
-
-.featured {
-    position: relative;
-    top: 50px;
-    display: block;
-    margin: auto;
-    padding: 5px;
-    font-size: 1.7rem;
-    font-weight: 900;
-    background-color: red;
-    color: white;
-    width: 320px;
-}
-
-.other {
-    position: relative;
-    display: block;
-    margin: auto;
-    padding: 5px;
-    font-size: 1.7rem;
-    font-weight: 900;
-    color: red;
-    width: 320px;
-}
-
-.red {
-    color: red;
-}
-
-.strong {
-    font-size: 1.4rem;
-    font-weight: 900;
-}
-
-a {
-    color: black;
-    font-size: 1.2rem;
-    font-weight: 700;
-}
+                                * {
+                                    box-sizing: border-box;
+                                }
+                                
+                                body {
+                                    font-family: 'Roboto', sans-serif;
+                                    font-family: 'Montserrat', sans-serif;
+                                }
+                                
+                                .topContainer {
+                                    width: 100%;
+                                    height: 360px;
+                                    background-color: rgba(0, 0, 0, .2);
+                                    font-size: 2rem;
+                                    ;
+                                }
+                                
+                                .section {
+                                    width: 100%;
+                                    height: 300px;
+                                    background-color: rgba(0, 0, 0, .5);
+                                    font-size: 2rem;
+                                }
+                                
+                                .section2 {
+                                    width: 100%;
+                                    height: 300px;
+                                    background-color: white;
+                                    font-size: 2rem;
+                                }
+                                
+                                .section3 {
+                                    height: 1000px;
+                                    width: 100%;
+                                    background-color: rgb(235, 235, 235);
+                                    font-size: 2rem;
+                                }
+                                
+                                .section4 {
+                                    position: relative;
+                                    top: 80px;
+                                    width: 100%;
+                                    background-color: rgb(235, 235, 235);
+                                    font-size: 1.3rem;
+                                }
+                                
+                                .section5 {
+                                    position: relative;
+                                    top: 80px;
+                                    width: 100%;
+                                    background-color: rgb(255, 255, 255);
+                                    font-size: 1.3rem;
+                                }
+                                
+                                .section6 {
+                                    position: relative;
+                                    top: 80px;
+                                    width: 100%;
+                                    height: 200px;
+                                    background-color: rgb(255, 255, 255);
+                                    font-size: 1.3rem;
+                                }
+                                
+                                .projContainer {
+                                    display: flex;
+                                    padding: 15px;
+                                    justify-content: center
+                                }
+                                
+                                .projects {
+                                    position: relative;
+                                    top: 80px;
+                                    margin: 20px;
+                                    width: 380px;
+                                    padding: 25px;
+                                    font-size: 1.3rem;
+                                    background-color: lightpink;
+                                }
+                                
+                                .skillCol {
+                                    position: relative;
+                                    top: 80px;
+                                    margin: 20px;
+                                    width: 250px;
+                                    padding: 25px;
+                                    font-size: 1rem;
+                                    line-height: 15px;
+                                }
+                                
+                                .introText {
+                                    width: 800px;
+                                    margin: auto;
+                                    position: relative;
+                                    top: 80px;
+                                    line-height: 30px;
+                                    text-align: left;
+                                    font-size: 1.3rem;
+                                }
+                                
+                                .techText {
+                                    width: 800px;
+                                    margin: auto;
+                                    position: relative;
+                                    top: 80px;
+                                    line-height: 30px;
+                                    text-align: left;
+                                    font-size: 1.3rem;
+                                }
+                                
+                                .projectsPlus {
+                                    width: 800px;
+                                    margin: auto;
+                                    position: relative;
+                                    height: 400px;
+                                    top: 80px;
+                                    line-height: 30px;
+                                    text-align: left;
+                                    font-size: 1.3rem;
+                                }
+                                
+                                .featuredSe5 {
+                                    position: relative;
+                                    top: 80px;
+                                    display: block;
+                                    margin: auto;
+                                    padding: 5px;
+                                    font-size: 1.7rem;
+                                    font-weight: 900;
+                                    background-color: red;
+                                    color: white;
+                                    width: 450px;
+                                }
+                                
+                                .intro {
+                                    position: relative;
+                                    left: 200px;
+                                    top: 80px;
+                                }
+                                
+                                .mugShot {
+                                    width: 200px;
+                                    height: 200px;
+                                    position: relative;
+                                    background-color: rgba(0, 0, 0, .2);
+                                    border-radius: 50%;
+                                    border: 2px solid white;
+                                    left: 800px;
+                                    top: -10px;
+                                }
+                                
+                                .folio {
+                                    font-size: 1rem;
+                                }
+                                
+                                .front {
+                                    font-size: 3rem;
+                                }
+                                
+                                .extraSkill {
+                                    font-size: 1.5rem;
+                                }
+                                
+                                .tech {
+                                    position: relative;
+                                    top: 50px;
+                                    display: block;
+                                    margin: auto;
+                                    padding: 5px;
+                                    font-size: 1.5rem;
+                                    font-weight: 900;
+                                    background-color: red;
+                                    color: white;
+                                    width: 70px;
+                                }
+                                
+                                .featured {
+                                    position: relative;
+                                    top: 50px;
+                                    display: block;
+                                    margin: auto;
+                                    padding: 5px;
+                                    font-size: 1.7rem;
+                                    font-weight: 900;
+                                    background-color: red;
+                                    color: white;
+                                    width: 320px;
+                                }
+                                
+                                .other {
+                                    position: relative;
+                                    display: block;
+                                    margin: auto;
+                                    padding: 5px;
+                                    font-size: 1.7rem;
+                                    font-weight: 900;
+                                    color: red;
+                                    width: 320px;
+                                }
+                                
+                                .skill {
+                                    position: relative;
+                                    top: 150px;
+                                    width: 100%;
+                                    height: 400px;
+                                    background-color: silver;
+                                }
+                                
+                                .forMore {
+                                    position: relative;
+                                    top: 150px;
+                                    width: 100%;
+                                    height: 300px;
+                                    background-color: white;
+                                }
+                                
+                                .contact {
+                                    position: relative;
+                                    top: 150px;
+                                    width: 100%;
+                                    height: 300px;
+                                    background-color: gray;
+                                    text-align: center;
+                                }
+                                
+                                .contactInfo {
+                                    position: relative;
+                                    top: 150px;
+                                    width: 200px;
+                                    color: white;
+                                }
+                                
+                                .theSkills {
+                                    position: relative;
+                                    top: 100px;
+                                    display: block;
+                                    margin: auto;
+                                    padding: 5px;
+                                    font-size: 1.7rem;
+                                    font-weight: 900;
+                                    background-color: red;
+                                    color: white;
+                                    width: 120px;
+                                }
+                                
+                                .more {
+                                    position: relative;
+                                    top: 100px;
+                                    display: block;
+                                    margin: auto;
+                                    padding: 5px;
+                                    font-size: 1.7rem;
+                                    font-weight: 900;
+                                    background-color: red;
+                                    color: white;
+                                    width: 200px;
+                                }
+                                
+                                .red {
+                                    color: red;
+                                }
+                                
+                                .strong {
+                                    font-size: 1.4rem;
+                                    font-weight: 900;
+                                }
+                                
+                                a {
+                                    color: black;
+                                    font-size: 1.2rem;
+                                    font-weight: 700;
+                                }
+                                
+                                .margin {
+                                    display: block;
+                                    width: 100%;
+                                    height: 70px;
+                                }
+                                
+                                .fafa {
+                                    font-size: 6rem;
+                                }
