@@ -223,9 +223,8 @@
                                 }
                                 
                                 .contactInfo {
-                                    position: relative;
-                                    top: 150px;
-                                    width: 200px;
+                                    display: inline;
+                                    width: 250px;
                                     color: white;
                                 }
                                 
@@ -257,6 +256,10 @@
                                 
                                 .red {
                                     color: red;
+                                }
+                                
+                                .white {
+                                    color: white;
                                 }
                                 
                                 .strong {
