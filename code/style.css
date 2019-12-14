@@ -194,7 +194,7 @@
                                     font-weight: 900;
                                     background-color: rgb(233, 0, 0);
                                     color: white;
-                                    width: 450px;
+                                    width: 220px;
                                 }
                                 
                                 .intro {
@@ -436,8 +436,8 @@
                                         font-size: 1rem;
                                     }
                                     .fafaCol2 {
-                                        width: 100px;
-                                        height: 100px;
+                                        width: 60px;
+                                        height: 60px;
                                         border-radius: 50%;
                                         border: 2px solid red;
                                         position: relative;
@@ -446,10 +446,9 @@
                                     }
                                     .fafa {
                                         position: relative;
-                                        top: 18px;
-                                        left: 1px;
-                                        font-size: 3rem;
-                                        padding: 25px;
+                                        top: 12px;
+                                        left: -11px;
+                                        font-size: 2rem;
                                         color: rgb(218, 0, 0);
                                     }
                                     .fafa2 {
@@ -504,7 +503,7 @@
                                     }
                                     .featuredSe5 {
                                         position: relative;
-                                        top: 80px;
+                                        top: 50px;
                                         display: block;
                                         margin: auto;
                                         padding: 5px;
