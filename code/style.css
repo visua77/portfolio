@@ -11,8 +11,10 @@
                                 
                                 .topContainer {
                                     width: 100%;
+                                    background-image: url("img/santaTikabAdobeRGB.jpg");
+                                    background-size: cover;
+                                    background-position: center center;
                                     height: 360px;
-                                    background-color: rgba(0, 0, 0, .2);
                                     font-size: 2rem;
                                 }
                                 
@@ -178,7 +180,7 @@
                                     top: 80px;
                                 }
                                 
-                                .mugShot {
+                                .mugShot img {
                                     width: 200px;
                                     height: 200px;
                                     position: relative;
