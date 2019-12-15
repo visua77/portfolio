@@ -387,8 +387,12 @@
                                         background-color: rgba(0, 0, 0, .2);
                                     }
                                     .intro {
+                                        display: inline;
+                                        color: white;
+                                        background-color: rgba(0, 0, 0, .4);
+                                        letter-spacing: 2px;
+                                        line-height: 40px;
                                         position: relative;
-                                        width: 150px;
                                         left: 50px;
                                         top: 120px;
                                     }
@@ -427,8 +431,8 @@
                                         background-color: rgba(0, 0, 0, .2);
                                         border-radius: 50%;
                                         border: 2px solid white;
-                                        left: 200px;
-                                        top: 105px;
+                                        left: 220px;
+                                        top: 145px;
                                     }
                                     .social {
                                         position: absolute;
