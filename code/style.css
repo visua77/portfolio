@@ -103,6 +103,11 @@
                                     background-color: lightpink;
                                 }
                                 
+                                .projects img {
+                                    width: 320px;
+                                    object-fit: fill;
+                                }
+                                
                                 .skillCol {
                                     position: relative;
                                     top: 80px;
@@ -514,7 +519,7 @@
                                         width: 250px;
                                     }
                                     .folio {
-                                        font-size: , 7rem;
+                                        font-size: 7rem;
                                     }
                                     .front {
                                         font-size: 2.5rem;
