@@ -474,7 +474,10 @@
                                         width: 350px;
                                         padding: 25px;
                                         font-size: 1.3rem;
-                                        background-color: lightpink;
+                                        background-color: rgb(255, 255, 255);
+                                    }
+                                    .projects img {
+                                        width: 310px;
                                     }
                                     .projContainer {
                                         display: flex;
@@ -523,12 +526,12 @@
                                         width: 250px;
                                     }
                                     .folio {
-                                        font-size: 7rem;
+                                        font-size: 1rem;
                                     }
                                     .front {
                                         font-size: 2.5rem;
                                     }
                                     .extraSkill {
-                                        font-size: 0.7rem;
+                                        font-size: 1rem;
                                     }
                                 }
