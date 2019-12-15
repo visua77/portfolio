@@ -9,6 +9,10 @@
                                     font-family: 'Montserrat', sans-serif;
                                 }
                                 
+                                .mail a {
+                                    color: white;
+                                }
+                                
                                 .topContainer {
                                     width: 100%;
                                     opacity: .9;
@@ -98,13 +102,13 @@
                                     top: 80px;
                                     margin: 20px;
                                     width: 380px;
-                                    padding: 25px;
+                                    padding: 5px;
                                     font-size: 1.3rem;
-                                    background-color: lightpink;
+                                    background-color: rgb(255, 255, 255);
                                 }
                                 
                                 .projects img {
-                                    width: 320px;
+                                    width: 370px;
                                     object-fit: fill;
                                 }
                                 
