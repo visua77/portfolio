@@ -379,6 +379,14 @@
                                     color: white;
                                 }
                                 
+                                .tags {
+                                    font-size: .8rem;
+                                    display: inline;
+                                    background-color: pink;
+                                    margin-right: 7px;
+                                    padding: 3px;
+                                }
+                                
                                 @media (max-width:1000px) {
                                     .topContainer {
                                         width: 100%;
