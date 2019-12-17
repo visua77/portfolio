@@ -39,7 +39,6 @@
                                 }
                                 
                                 .section3 {
-                                    height: 1000px;
                                     width: 100%;
                                     background-color: rgb(235, 235, 235);
                                     font-size: 2rem;
@@ -47,7 +46,7 @@
                                 
                                 .section4 {
                                     position: relative;
-                                    top: 80px;
+                                    top: 40px;
                                     width: 100%;
                                     background-color: rgb(235, 235, 235);
                                     font-size: 1.3rem;
@@ -55,7 +54,7 @@
                                 
                                 .section5 {
                                     position: relative;
-                                    top: 80px;
+                                    top: 100px;
                                     width: 100%;
                                     background-color: rgb(255, 255, 255);
                                     font-size: 1.3rem;
@@ -385,6 +384,10 @@
                                     background-color: pink;
                                     margin-right: 7px;
                                     padding: 3px;
+                                }
+                                
+                                a {
+                                    text-decoration: none;
                                 }
                                 
                                 @media (max-width:1000px) {
