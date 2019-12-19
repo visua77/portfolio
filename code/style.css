@@ -134,10 +134,15 @@
                                     width: 100px;
                                     height: 100px;
                                     border-radius: 50%;
-                                    border: 2px solid red;
+                                    border: 2px solid rgb(233, 0, 0);
                                     position: relative;
                                     top: 100px;
                                     margin: 20px;
+                                }
+                                
+                                .stroke-transparent {
+                                    -webkit-text-stroke: 3px rgb(233, 0, 0);
+                                    -webkit-text-fill-color: transparent;
                                 }
                                 
                                 .introText {
@@ -154,7 +159,7 @@
                                     position: relative;
                                     top: -7px;
                                     font-weight: 900;
-                                    color: red;
+                                    color: rgb(233, 0, 0);
                                 }
                                 
                                 .circle {
@@ -164,7 +169,7 @@
                                     position: relative;
                                     margin-right: 5px;
                                     top: -1px;
-                                    background-color: red;
+                                    background-color: rgb(233, 0, 0);
                                     border-radius: 50%;
                                     display: inline-block;
                                 }
@@ -365,6 +370,15 @@
                                     position: relative;
                                     top: 18px;
                                     left: 1px;
+                                    font-size: 3rem;
+                                    padding: 25px;
+                                    color: rgb(218, 0, 0);
+                                }
+                                
+                                .fafaF {
+                                    position: relative;
+                                    top: 18px;
+                                    left: 0px;
                                     font-size: 3rem;
                                     padding: 25px;
                                     color: rgb(218, 0, 0);
