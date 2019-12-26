@@ -21,7 +21,7 @@
                                     height: 500px;
                                     font-size: 2rem;
                                     font-weight: 900;
-                                    color: darkgreen;
+                                    color: black;
                                 }
                                 
                                 .section {
@@ -46,7 +46,7 @@
                                 
                                 .section4 {
                                     position: relative;
-                                    top: 40px;
+                                    top: 20px;
                                     width: 100%;
                                     background-color: rgb(235, 235, 235);
                                     font-size: 1.3rem;
