@@ -130,14 +130,13 @@
                                 }
                                 
                                 .fafaCol2 {
-                                    display: inline-block;
                                     width: 100px;
                                     height: 100px;
-                                    border-radius: 50%;
-                                    border: 2px solid rgb(233, 0, 0);
                                     position: relative;
                                     top: 100px;
                                     margin: 20px;
+                                    border-radius: 50%;
+                                    border: 2px solid rgb(233, 0, 0);
                                 }
                                 
                                 .stroke-transparent {
@@ -303,7 +302,6 @@
                                 
                                 .contactInfo {
                                     display: inline;
-                                    width: 250px;
                                     color: white;
                                 }
                                 
@@ -390,6 +388,24 @@
                                     left: -13px;
                                     font-size: 2.2rem;
                                     color: white;
+                                }
+                                
+                                .stroke {
+                                    position: relative;
+                                    top: 20px;
+                                    left: 22px;
+                                }
+                                
+                                .stroke2 {
+                                    position: relative;
+                                    top: 15px;
+                                    left: 18px;
+                                }
+                                
+                                .stroke3 {
+                                    position: relative;
+                                    top: 11px;
+                                    left: 16px;
                                 }
                                 
                                 .tags {
