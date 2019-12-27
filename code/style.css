@@ -72,27 +72,28 @@
                                 .projContainer {
                                     display: flex;
                                     padding: 15px;
-                                    justify-content: center
+                                    justify-content: center;
                                 }
                                 
                                 .projContainer2 {
                                     display: flex;
                                     flex-direction: row;
                                     padding: 15px;
-                                    justify-content: center
+                                    justify-content: center;
+                                    align-items: center;
                                 }
                                 
                                 .projContainer3 {
                                     display: flex;
                                     flex-direction: row;
                                     padding: 15px;
-                                    justify-content: center
+                                    justify-content: center;
                                 }
                                 
                                 .projContainerS {
                                     display: flex;
                                     padding: 15px;
-                                    justify-content: center
+                                    justify-content: center;
                                 }
                                 
                                 .projects {
@@ -512,8 +513,6 @@
                                     .fafaCol3 {
                                         width: 60px;
                                         height: 60px;
-                                        border-radius: 50%;
-                                        border: 2px solid red;
                                         position: relative;
                                         top: 100px;
                                         margin: 20px;
@@ -555,7 +554,7 @@
                                         display: flex;
                                         flex-direction: row;
                                         padding: 15px;
-                                        justify-content: center
+                                        justify-content: center;
                                     }
                                     .projContainer3 {
                                         display: flex;
@@ -632,5 +631,9 @@
                                         position: relative;
                                         top: 13px;
                                         left: 13px;
+                                    }
+                                    .red {
+                                        font-size: 1rem;
+                                        color: rgb(218, 0, 0);
                                     }
                                 }
