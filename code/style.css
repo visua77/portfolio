@@ -139,11 +139,6 @@
                                     border: 2px solid rgb(233, 0, 0);
                                 }
                                 
-                                .stroke-transparent {
-                                    -webkit-text-stroke: 3px rgb(233, 0, 0);
-                                    -webkit-text-fill-color: transparent;
-                                }
-                                
                                 .introText {
                                     width: 800px;
                                     margin: auto;
@@ -602,5 +597,23 @@
                                     }
                                     .extraSkill {
                                         font-size: 1rem;
+                                    }
+                                    .stroke {
+                                        width: 30px;
+                                        position: relative;
+                                        top: 13px;
+                                        left: 14px;
+                                    }
+                                    .stroke2 {
+                                        width: 30px;
+                                        position: relative;
+                                        top: 13px;
+                                        left: 13px;
+                                    }
+                                    .stroke3 {
+                                        width: 30px;
+                                        position: relative;
+                                        top: 13px;
+                                        left: 13px;
                                     }
                                 }
