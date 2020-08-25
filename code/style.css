@@ -216,7 +216,8 @@
                                     line-height: 60px;
                                     position: relative;
                                     left: 300px;
-                                    top: 170px;
+                                    top: 150px;
+                                    color: white;
                                     font-family: 'Roboto', sans-serif;
                                 }
                                 
@@ -245,6 +246,10 @@
                                 
                                 .front {
                                     font-size: 4.5rem;
+                                    display: inline-block;
+                                    line-height: 3.8rem;
+                                    padding: 1rem;
+                                    background-color: rgba(0, 0, 0, .4)
                                 }
                                 
                                 .extraSkill {
