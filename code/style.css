@@ -104,9 +104,26 @@
                                     top: 80px;
                                     margin: 20px;
                                     width: 30%;
-                                    padding: 5px;
+                                    padding: 9px;
                                     font-size: 1.3rem;
                                     box-shadow: 5px 5px 15px rgba(0, 0, 0, .05);
+                                }
+                                
+                                .projectsT {
+                                    position: relative;
+                                    background-color: rgba(0, 0, 0, .1);
+                                    top: 80px;
+                                    margin: 20px;
+                                    width: 30%;
+                                    padding: 9px;
+                                    font-size: 1.3rem;
+                                    box-shadow: 5px 5px 15px rgba(0, 0, 0, .05);
+                                }
+                                
+                                .projectsT img {
+                                    width: 100%;
+                                    object-fit: fill;
+                                    transition: all ease-in-out .3s;
                                 }
                                 
                                 .projects img {
@@ -126,6 +143,29 @@
                                     transition: all ease-in-out .5s;
                                 }
                                 
+                                .projectsT #its-on {
+                                    opacity: 0;
+                                    width: 50px;
+                                    height: 50px;
+                                    position: absolute;
+                                    text-align: center;
+                                    padding: 5%;
+                                    font-size: 2rem;
+                                    transition: all ease-in-out .5s;
+                                }
+                                
+                                .projectsT:hover>#its-on {
+                                    position: absolute;
+                                    opacity: 1;
+                                    color: white;
+                                    text-align: center;
+                                    padding: 5%;
+                                    font-size: 2rem;
+                                    width: 95.5%;
+                                    height: 70px;
+                                    background-color: rgba(0, 0, 0, .4);
+                                }
+                                
                                 .projects:hover>#its-on {
                                     position: absolute;
                                     opacity: 1;
@@ -133,7 +173,7 @@
                                     text-align: center;
                                     padding: 5%;
                                     font-size: 2rem;
-                                    width: 100%;
+                                    width: 95.5%;
                                     height: 70px;
                                     background-color: rgba(0, 0, 0, .4);
                                 }
