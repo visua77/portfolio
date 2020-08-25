@@ -109,6 +109,30 @@
                                 .projects img {
                                     width: 100%;
                                     object-fit: fill;
+                                    transition: all ease-in-out .3s;
+                                }
+                                
+                                .projects #its-on {
+                                    opacity: 0;
+                                    width: 50px;
+                                    height: 50px;
+                                    position: absolute;
+                                    text-align: center;
+                                    padding: 5%;
+                                    font-size: 2rem;
+                                    transition: all ease-in-out .5s;
+                                }
+                                
+                                .projects:hover>#its-on {
+                                    position: absolute;
+                                    opacity: 1;
+                                    color: white;
+                                    text-align: center;
+                                    padding: 5%;
+                                    font-size: 2rem;
+                                    width: 100%;
+                                    height: 70px;
+                                    background-color: rgba(0, 0, 0, .4);
                                 }
                                 
                                 .skillCol {
@@ -213,6 +237,7 @@
                                 }
                                 
                                 .intro {
+                                    width: 30%;
                                     line-height: 60px;
                                     position: relative;
                                     left: 300px;
