@@ -46,10 +46,11 @@
                                 
                                 .section4 {
                                     position: relative;
-                                    top: 20px;
+                                    top: 60px;
                                     width: 100%;
                                     background-color: rgb(235, 235, 235);
                                     font-size: 1.3rem;
+                                    padding-bottom: 2rem;
                                 }
                                 
                                 .section5 {
@@ -99,11 +100,13 @@
                                 
                                 .projects {
                                     position: relative;
+                                    background-color: white;
                                     top: 80px;
                                     margin: 20px;
                                     width: 30%;
                                     padding: 5px;
                                     font-size: 1.3rem;
+                                    box-shadow: 5px 5px 15px rgba(0, 0, 0, .05);
                                 }
                                 
                                 .projects img {
