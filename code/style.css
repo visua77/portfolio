@@ -135,6 +135,10 @@
                                     background-color: rgba(0, 0, 0, .4);
                                 }
                                 
+                                .projects:hover {
+                                    cursor: pointer;
+                                }
+                                
                                 .skillCol {
                                     position: relative;
                                     top: 80px;
