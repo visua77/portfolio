@@ -621,6 +621,21 @@
                                     .projects img {
                                         width: 310px;
                                     }
+                                    .projectsT {
+                                        position: relative;
+                                        background-color: rgba(0, 0, 0, .1);
+                                        top: 80px;
+                                        margin: auto;
+                                        width: 350px;
+                                        padding: 25px;
+                                        font-size: 1.3rem;
+                                        box-shadow: 5px 5px 15px rgba(0, 0, 0, .05);
+                                    }
+                                    .projectsT img {
+                                        width: 310px;
+                                        object-fit: fill;
+                                        transition: all ease-in-out .3s;
+                                    }
                                     .projContainer {
                                         display: flex;
                                         width: 80%;
