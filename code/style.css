@@ -554,6 +554,13 @@
                                         background-color: rgb(235, 235, 235);
                                         font-size: 1.3rem;
                                     }
+                                    .section5 {
+                                        position: relative;
+                                        top: 110px;
+                                        width: 100%;
+                                        background-color: rgb(255, 255, 255);
+                                        font-size: 1.3rem;
+                                    }
                                     .mugShot img {
                                         width: 150px;
                                         height: 150px;
