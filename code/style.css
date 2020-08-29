@@ -109,6 +109,14 @@
                                     box-shadow: 5px 5px 15px rgba(0, 0, 0, .05);
                                 }
                                 
+                                .projects img {
+                                    border: 1px solid rgba(0, 0, 0, .1);
+                                }
+                                
+                                .projectsT img {
+                                    border: 1px solid rgba(0, 0, 0, .1);
+                                }
+                                
                                 .projectsT {
                                     position: relative;
                                     background-color: rgba(0, 0, 0, .1);
@@ -200,6 +208,7 @@
                                     border-radius: 50%;
                                     border: 2px solid white;
                                     font-size: 1rem;
+                                    transition: ease-in-out .4s;
                                 }
                                 
                                 .fafaCol2 {
@@ -470,24 +479,44 @@
                                     left: -13px;
                                     font-size: 2.2rem;
                                     color: white;
+                                    transition: ease-in-out .4s;
+                                }
+                                
+                                .fafa2:hover {
+                                    color: black;
                                 }
                                 
                                 .stroke {
                                     position: relative;
                                     top: 20px;
                                     left: 22px;
+                                    transition: ease-in-out .4s;
+                                }
+                                
+                                .stroke:hover {
+                                    opacity: .5;
                                 }
                                 
                                 .stroke2 {
                                     position: relative;
                                     top: 15px;
                                     left: 18px;
+                                    transition: ease-in-out .4s;
+                                }
+                                
+                                .stroke2:hover {
+                                    opacity: .5;
                                 }
                                 
                                 .stroke3 {
                                     position: relative;
                                     top: 11px;
                                     left: 16px;
+                                    transition: ease-in-out .4s;
+                                }
+                                
+                                .stroke3:hover {
+                                    opacity: .5;
                                 }
                                 
                                 .tags {
