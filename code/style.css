@@ -162,7 +162,7 @@
                                     transition: all ease-in-out .5s;
                                 }
                                 
-                                .projectsT:hover>#its-on {
+                  /*               .projectsT:hover>#its-on {
                                     position: absolute;
                                     opacity: 1;
                                     color: white;
@@ -184,7 +184,7 @@
                                     width: 95.5%;
                                     height: 70px;
                                     background-color: rgba(0, 0, 0, .4);
-                                }
+                                } */
                                 
                                 .projects:hover {
                                     cursor: pointer;
