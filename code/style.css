@@ -9,7 +9,7 @@
                                 }
                                 
                                 .mail a {
-                                    color: white;
+                                    color: black;
                                 }
                                 
                                 .topContainer {
@@ -51,6 +51,7 @@
                                     background-color: rgb(235, 235, 235);
                                     font-size: 1.3rem;
                                     padding-bottom: 2rem;
+                                    margin-bottom:8rem;
                                 }
                                 
                                 .section5 {
@@ -218,7 +219,7 @@
                                     top: 100px;
                                     margin: 20px;
                                     border-radius: 50%;
-                                    border: 2px solid rgb(233, 0, 0);
+                                    border: 2px solid rgb(195, 0, 0);
                                 }
                                 
                                 .fafaCol3 {
@@ -243,7 +244,7 @@
                                     position: relative;
                                     top: -7px;
                                     font-weight: 900;
-                                    color: rgb(233, 0, 0);
+                                    color: rgb(195, 0, 0);
                                 }
                                 
                                 .circle {
@@ -253,7 +254,7 @@
                                     position: relative;
                                     margin-right: 5px;
                                     top: -1px;
-                                    background-color: rgb(233, 0, 0);
+                                    background-color: rgb(195, 0, 0);
                                     border-radius: 50%;
                                     display: inline-block;
                                 }
@@ -287,7 +288,7 @@
                                     padding: 5px;
                                     font-size: 1.7rem;
                                     font-weight: 900;
-                                    background-color: rgb(233, 0, 0);
+                                    background-color: rgb(195, 0, 0);
                                     color: white;
                                     width: 220px;
                                 }
@@ -323,6 +324,7 @@
                                 
                                 .folio {
                                     font-size: 1.5rem;
+                                    color:rgb(22, 22, 22);
                                 }
                                 
                                 .front {
@@ -335,6 +337,7 @@
                                 
                                 .extraSkill {
                                     font-size: 2.5rem;
+                                    color:rgb(22, 22, 22);
                                 }
                                 
                                 .tech {
@@ -345,7 +348,7 @@
                                     padding: 5px;
                                     font-size: 1.5rem;
                                     font-weight: 900;
-                                    background-color: rgb(233, 0, 0);
+                                    background-color: rgb(195, 0, 0);
                                     color: white;
                                     width: 78px;
                                 }
@@ -358,7 +361,7 @@
                                     padding: 5px;
                                     font-size: 1.7rem;
                                     font-weight: 900;
-                                    background-color: rgb(233, 0, 0);
+                                    background-color: rgb(195, 0, 0);
                                     color: white;
                                     width: 320px;
                                 }
@@ -370,7 +373,7 @@
                                     padding: 5px;
                                     font-size: 1.7rem;
                                     font-weight: 900;
-                                    color: rgb(233, 0, 0);
+                                    color: rgb(195, 0, 0);
                                     width: 320px;
                                 }
                                 
@@ -425,7 +428,7 @@
                                     padding: 5px;
                                     font-size: 1.7rem;
                                     font-weight: 900;
-                                    background-color: rgb(233, 0, 0);
+                                    background-color: rgb(195, 0, 0);
                                     color: white;
                                     width: 170px;
                                 }
@@ -713,7 +716,7 @@
                                         padding: 5px;
                                         font-size: 1.7rem;
                                         font-weight: 900;
-                                        background-color: rgb(233, 0, 0);
+                                        background-color: rgb(195, 0, 0);
                                         color: white;
                                         width: 170px;
                                     }
@@ -730,7 +733,7 @@
                                         padding: 5px;
                                         font-size: 1.7rem;
                                         font-weight: 900;
-                                        background-color: rgb(233, 0, 0);
+                                        background-color: rgb(195, 0, 0);
                                         color: white;
                                         width: 250px;
                                     }
