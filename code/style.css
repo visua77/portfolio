@@ -1,8 +1,9 @@
                                 * {
                                     box-sizing: border-box;
                                 }
-                                
-                                body {
+
+                               
+                                 body {
                                     margin: 0;
                                     padding: 0;
                                     font-family: 'Montserrat', sans-serif;
@@ -206,10 +207,11 @@
                                     height: 60px;
                                     padding: 25px;
                                     margin: 10px;
+                                    /* padding: 75% 75% 0 0; */
                                     border-radius: 50%;
                                     border: 2px solid white;
                                     font-size: 1rem;
-                                    transition: ease-in-out .4s;
+                                    transition: all ease-in-out .4s;
                                 }
                                 
                                 .fafaCol2 {
