@@ -8,6 +8,30 @@
                                     padding: 0;
                                     font-family: 'Montserrat', sans-serif;
                                 }
+
+                                .fafa-wrapper {
+                                    
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    width:70px;
+                                    height:70px;
+                                    border-radius: 50%;
+                                    border:2px solid white;
+                                    margin-right: 1.7rem;
+                                    
+                                }
+
+                                i { 
+                                    color:white;
+                                    font-size: 2.5rem;
+                                    transition: all .3s ease-in-out ;
+                                }
+
+                                i:hover { 
+                                    color:black;
+                                    font-size: 2.5rem;
+                                }
                                 
                                 .mail a {
                                     color: black;
@@ -299,8 +323,8 @@
                                     width: 30%;
                                     line-height: 60px;
                                     position: relative;
-                                    left: 300px;
-                                    top: 150px;
+                                    left: 470px;
+                                    top: 130px;
                                     color: white;
                                     font-family: 'Roboto', sans-serif;
                                 }
@@ -313,15 +337,14 @@
                                     background-color: rgba(0, 0, 0, .2);
                                     border-radius: 50%;
                                     border: 2px solid white;
-                                    left: 900px;
-                                    top: -3px;
+                                    left: 1050px;
+                                    top: 10px;
                                 }
                                 
                                 .social {
                                     position: absolute;
-                                    left: 1000px;
+                                    left: 990px;
                                     top: 60px;
-                                    width: 80px;
                                 }
                                 
                                 .folio {
