@@ -120,7 +120,7 @@
                                 
                                 .projContainerS {
                                     display: flex;
-                                    padding: 15px;
+                                    
                                     justify-content: center;
                                 }
                                 
@@ -652,13 +652,14 @@
                                         background-color: rgba(0, 0, 0, .2);
                                         border-radius: 50%;
                                         border: 2px solid white;
-                                        left: 220px;
-                                        top: 130px;
+                                        left: 210px;
+                                        top: 120px;
                                     }
                                     .social {
                                         position: absolute;
-                                        left: 130px;
-                                        top: 0px;
+                                        left: 135px;
+                                        top: 15px;
+                                        
                                         
                                     }
                                     .fafaCol {
@@ -774,7 +775,7 @@
                                     }
                                     .projContainerS {
                                         display: flex;
-                                        padding: 15px;
+                                        
                                         justify-content: center
                                     }
                                     .featuredSe5 {
