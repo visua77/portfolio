@@ -42,7 +42,9 @@
                                     opacity: .9;
                                     background-image: url("img/headerM.jpg");
                                     background-size: cover;
-                                    background-position: center center;
+                                    background-repeat: no-repeat;
+                                    background-attachment: fixed;
+                                    background-position: 50% 79%;
                                     height: 500px;
                                     font-size: 2rem;
                                     font-weight: 900;
@@ -605,6 +607,7 @@
                                     .introText {
                                         width: 80%;
                                         margin: auto;
+                                        
                                         position: relative;
                                         top: 80px;
                                         line-height: 30px;
@@ -633,7 +636,8 @@
 
                                     .section {
                                         width: 100%;
-                                        height: 300px;
+                                        height: 350px;
+                                        
                                         background-color: rgba(0, 0, 0, .1);
                                         font-size: 2rem;
                                     }
