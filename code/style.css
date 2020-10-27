@@ -592,6 +592,11 @@
                                     .topContainer {
                                         width: 100%;
                                         height: 460px;
+                                        background-image: url("img/headerM.jpg");
+                                        background-size: cover;
+                                        background-repeat: no-repeat;
+                                        background-attachment: fixed;
+                                        background-position: center;
                                         background-color: rgba(0, 0, 0, .2);
                                     }
                                     .intro {
