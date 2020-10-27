@@ -595,7 +595,7 @@
                                         background-image: url("img/headerM.jpg");
                                         background-size: cover;
                                         background-repeat: no-repeat;
-                                        background-attachment: fixed;
+                                        background-attachment: scroll;
                                         background-position: center;
                                         background-color: rgba(0, 0, 0, .2);
                                     }
